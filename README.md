@@ -105,35 +105,15 @@
 
 
 
-### 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img src="https://github-readme-stats.vercel.app/api/?username=AlwaysRoo7&title_color=FF3131&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=FF3131&hide_title=true&count_private=true" />
-    </td>
-    <td align="center" style="padding=0;width=50%;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlwaysRoo7&title_color=FF3131&text_color=9f9f9f&layout=compact&show_icons=true&bg_color=00000000&hide_border=true&icon_color=FF3131&count_private=true" />
-    </td>
-  </tr>
-</table>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlwaysRoo7&theme=dark&hide_border=true&background=00000000&stroke=FF3131&ring=FF3131&fire=FF3131&currStreakLabel=FF3131" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AlwaysRoo7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlwaysRoo7&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-
-
-
-
-### 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlwaysRoo7&theme=darkhub&no-frame=true&margin-w=10" />
+<img src="https://streak-stats.demolab.com?user=AlwaysRoo7&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=23&height=100&section=footer"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AlwaysRoo7&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
 </p>
