@@ -109,17 +109,27 @@
 
 
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width="3%"> GitHub Stats
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/AlwaysRoo7">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlwaysRoo7&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="AlwaysRoo7's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=AlwaysRoo7&theme=radical&hide_border=true&cache_seconds=86400" alt="AlwaysRoo7's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=AlwaysRoo7&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Always Roo7's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=AlwaysRoo7&theme=radical&radius=10" alt="AlwaysRoo7's Activity Graph" />
+</p>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbdullahMaqbool22&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbdullahMaqbool22&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahMaqbool22&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41"/>
-</div>
+
+
+
+
+---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:ff3131&height=120&section=footer"/>
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
